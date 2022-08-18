@@ -1,0 +1,93 @@
+body {
+  align-items: center;
+  align-content: center;
+   color: rgb(231, 220, 220);
+   background-image: linear-gradient(rgba(145, 24, 24, 0.7),rgba(39, 41, 40, 0.7)),url(./orange\ clock\ .jpeg);
+   background-position: center;
+   background-size: cover;
+   position: relative;
+   min-height: 100vh; /*parent container*/ 
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+  
+ }
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.output{
+  color: white;
+  
+}
+ button.plus {
+   border-radius: 50%;
+  border: 3px solid rgb(0, 247, 255);
+  font-size: 80px;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  margin-left: 150px;
+  background-color: green;
+  cursor: crosshair;
+ }
+
+.d-btn{
+  /* color: black;
+  background-color:red;
+  margin-bottom: 50px;
+  padding: 20px,20px,20px;
+  cursor: all-scroll;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 40px;
+  font-size: 60px;
+  width: 80px; */
+
+  
+  
+  border-radius: 50%;
+  border: 3px solid rgb(248, 238, 238);
+  font-size: 5rem;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  cursor: crosshair;
+  
+}
+.placeholder{
+  color: black;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin-top: 30px;
+  background-color: transparent;
+  background: -webkit-linear-gradient(cyan, white, darkgray);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-radius: 10px;
+  cursor: grab;
+  
+}
+.input-btn{
+  font-size: 2rem;
+  font-weight: 500px;
+  background-color: yellow;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.reset-btn{
+  font-size: 2rem;
+  padding: 20px;
+  border-radius: 10px;
+  margin-right: 60px;
+}
+.input-btn{
+ 
+}
