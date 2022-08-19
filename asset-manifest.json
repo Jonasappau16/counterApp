@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/counterApp/static/css/main.598820b9.css",
+    "main.js": "/counterApp/static/js/main.0370ee10.js",
+    "static/js/787.7e354dae.chunk.js": "/counterApp/static/js/787.7e354dae.chunk.js",
+    "static/media/orange clock .jpeg": "/counterApp/static/media/orange clock .9aa19cd11f06c224e899.jpeg",
+    "index.html": "/counterApp/index.html",
+    "main.598820b9.css.map": "/counterApp/static/css/main.598820b9.css.map",
+    "main.0370ee10.js.map": "/counterApp/static/js/main.0370ee10.js.map",
+    "787.7e354dae.chunk.js.map": "/counterApp/static/js/787.7e354dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598820b9.css",
+    "static/js/main.0370ee10.js"
+  ]
+}
